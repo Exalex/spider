@@ -26,5 +26,5 @@ echo $title;exit;
 // 查看数据是否正确
 //print_r($data);
 
-// 入库
+// 入库操作
 //db::insert("content", $data);
